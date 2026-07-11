@@ -4,7 +4,7 @@ gender = input("enter you gender:")
 
 print("welcome to \"XYZ hospital\" ")
 
-if name == 'male':
+if gender == 'male':
   print("hello", "MR", name )
 else:
   print("hello", "miss", name)
